@@ -1,8 +1,8 @@
 {
     "name": "ClearVision modified",
-    "description": "Highly customizable theme for PowerCord and Better Dsicord.",
+    "description": "Highly customizable theme for PowerCord and BetterDiscord.",
     "version": "1",
     "author": "Mr_OSS117",
     "theme": "theme.css",
-    "license": "unknown"
+    "license": "MIT"
 }
