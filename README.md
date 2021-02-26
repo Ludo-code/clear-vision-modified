@@ -9,3 +9,8 @@ To use ClearVision Modified on Better Discord please download the zip and unzip 
 
 
 If you have a problem with the theme please open an github issue.
+
+
+Screenshots :
+
+[Scrrenshots 1]()
