@@ -13,4 +13,4 @@ If you have a problem with the theme please open an github issue.
 
 Screenshots :
 
-[Scrrenshots 1]()
+![Scrrenshots 1](https://raw.githubusercontent.com/Ludo-code/clear-vision-modified/main/screenshots/screen_1.png)
